@@ -1,2 +1,2 @@
-# python_password_manager_2025
+# Python Password Manager
 A local python password manager which incorporates encryption.
