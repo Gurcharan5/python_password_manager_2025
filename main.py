@@ -152,6 +152,6 @@ def check_if_table():
     else:
         create_user_table()
 
-check_if_table()
-view_records()
+if __name__ == "__main__":
+    check_if_table()
 
