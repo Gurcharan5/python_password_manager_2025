@@ -88,7 +88,7 @@ def main_menu():
     print("4. Log out")
     choice = input("")
     if choice == "1":
-        pass
+        view_records()
     elif choice == "2":
         add_record()
     elif choice == "3":
